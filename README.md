@@ -12,7 +12,7 @@ escolher o professor desejado e realizar o seu cadastro.
 
 1. API REST com Pyhton e Django
 2. Front-end com React, Next.js e Material UI
-3. Camadas, componentes, boas práticas
+3. Camadas, componentes, hooks, boas práticas
 
 ## 📝 Licença
 
