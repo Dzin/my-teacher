@@ -2,7 +2,7 @@
 
 # Semana React Python (Projeto Full Stack)
 
-MyTeacher é aplicação simples de agendamento de aulas, no qual você poderá
+My Teacher é aplicação simples de agendamento de aulas, no qual você poderá
 escolher o professor desejado e realizar o seu cadastro.
 
 - **Back-end**: Python, Django
